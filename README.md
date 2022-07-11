@@ -12,7 +12,7 @@
 
 * For the school summary analysis,in the begining we were actually able to see a big difference in the scores just in the school we altered. One of the main reason why deleting the ninth-grade class from this high had such a great impact on the average of scores, it wass because of the student size of Thomas High School.The ninth-grade class accounts for approximately 28% of the total school size, and if the ninth-grade had high testing scores, this will most definetly bring the overall passing percentage down. Which is why it was necessary to make some alterations to the school summary that would only include the 10th-12th; as soon as we replaced the scores with those from just the 10th-12th grade, and adjusted the school size to just include students from those grades.Comparing this new data frame with the old data frame that included ninth-graders, ou can see that it decreased the percentage overall by approximately 0.31%. Please see below for images of the new data frame and old date frame that included the ninth grade class of the Thomas High school (this was again taken from the work done throughout the module.)
 
-
+![school_summary](https://github.com/Mparra14/School_District_Analysis/blob/main/School_Summary%20(new%201).png)
 
 
 
