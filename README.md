@@ -18,12 +18,12 @@
 
 * Without the ninth-grade class, Thomas High School still remains in the number 2 spot as their overall passing percentage is a 90.63%. The deletion of the ninth-grade class did not impact their school ranking since their score only amounted to 0.31% of the overall passing perncentage. This was not enough to bring the ranking down since the 3rd ranking school had 90.59% of overall passing percentage. This can be seen in the image below. 
 
-![Top_5_schools](
+![Top_5_schools](https://github.com/Mparra14/School_District_Analysis/blob/main/top_5_schools.png)
 
+*How does replacing the ninth-grade scores affect the following:
+  *Math and reading scores by grade
+  *Scores by school spending
+  *Scores by school size
+  *Scores by school type
 
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
