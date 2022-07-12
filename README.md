@@ -31,7 +31,7 @@
  
 * While examining the scores by school spending, you can see that not much changes in Thomas High School data, their spendature per student falls in the ranges of $631-$645 and while is on the higher side of the range, it certainly did not mean that having this amount per student increases their test scores, because their overall passing percentage is 63%, unlike those schools with lower per student budgets, which were able to reach that 90% overall passing for both reading and math. Therefore, having the ninth-grade scores deleted from one high school did not impact this data set, this can be seen below. 
  
- ![score_by_school_spending]()
+ ![score_by_school_spending](https://github.com/Mparra14/School_District_Analysis/blob/main/score_by_school_spending.png)
   
 * In this particular data frame, we can see that the medium and smaller sized schools are able to achieve higher overall math and reading scores unlike larger schools. This data frame supports the idea that having smaller size classes aids the teacher as she can have more time for individual learning, therefore higher test scores. Again, having the ninth-grade scores replaced for one high school, did not alter the results since this school was already mid-sized and their overall scores for their 10th-12th graders were high. Please see image below for evidence. 
  
