@@ -26,7 +26,7 @@
   
 ![math_score_grade](https://github.com/Mparra14/School_District_Analysis/blob/main/Math%20scores%20by%20grade%20.png)
 
-![reading_score_grade]()
+![reading_score_grade](https://github.com/Mparra14/School_District_Analysis/blob/main/Reading%20scores%20by%20grade.png)
   
  
 * While examining the scores by school spending, you can see that not much changes in Thomas High School data, their spendature per student falls in the ranges of $631-$645 and while is on the higher side of the range, it certainly did not mean that having this amount per student increases their test scores, because their overall passing percentage is 63%, unlike those schools with lower per student budgets, which were able to reach that 90% overall passing for both reading and math. Therefore, having the ninth-grade scores deleted from one high school did not impact this data set, this can be seen below. 
