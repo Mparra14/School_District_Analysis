@@ -36,7 +36,7 @@
 * In this particular data frame, we can see that the medium and smaller sized schools are able to achieve higher overall math and reading scores unlike larger schools. This data frame supports the idea that having smaller size classes aids the teacher as she can have more time for individual learning, therefore higher test scores. Again, having the ninth-grade scores replaced for one high school, did not alter the results since this school was already mid-sized and their overall scores for their 10th-12th graders were high. Please see image below for evidence. 
  
  
- ![scores_by_school_size]
+ ![scores_by_school_size](https://github.com/Mparra14/School_District_Analysis/blob/main/scores_by_school_size.png)
  
 * The school type testing scores were much higher from those students that were enrolled in charter school rather than district schools, this is evident as charter schools are smaller in size which was a factor seen int the last data frame for successful scores. Because Thomas high school is also a charter school, we must see if the ninth-grade deletion had any impact on this data set, and it did not. This can be clearly seen in the image below. 
 
