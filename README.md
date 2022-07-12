@@ -40,7 +40,7 @@
  
 * The school type testing scores were much higher from those students that were enrolled in charter school rather than district schools, this is evident as charter schools are smaller in size which was a factor seen int the last data frame for successful scores. Because Thomas high school is also a charter school, we must see if the ninth-grade deletion had any impact on this data set, and it did not. This can be clearly seen in the image below. 
 
-![school_type_scores]()
+![school_type_scores](https://github.com/Mparra14/School_District_Analysis/blob/main/scores_by_school_type.png)
 
 ## Summary: 
 
