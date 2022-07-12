@@ -20,15 +20,26 @@
 
 ![Top_5_schools](https://github.com/Mparra14/School_District_Analysis/blob/main/top_5_schools.png)
 
-*How does replacing the ninth-grade scores affect the following:
+* How does replacing the ninth-grade scores affect the following:
 
- * Math and reading scores by grade
-  Looking at the 
+* Looking at the math and reading scores by grade, you can see that replacing the ninth grade scores with Nan's are still into effect in this section. Due to the ninth-graders in Thomas High School not having these score there is no data to analyze from this grade at this particular school. This did not affect the other grades since their score did not depend on the ninth graders. Please see below for both math and reading scores. As it can be seen these scores did not affect any other score in that school. 
   
- *Scores by school spending
+![math_score_grade]()
+
+![reading_score_grade]()
   
- *Scores by school size
+ 
+* While examining the scores by school spending, you can see that not much changes in Thomas High School data, their spendature per student falls in the ranges of $631-$645 and while is on the higher side of the range, it certainly did not mean that having this amount per student increases their test scores, because their overall passing percentage is 63%, unlike those schools with lower per student budgets, which were able to reach that 90% overall passing for both reading and math. Therefore, having the ninth grade scores deleted from one high school did not impact this data set, this can be seen below. 
+ 
+ ![score_by_school_spending]()
+  
+* In this particular data frame, we can see that the the medium and smaller sized schools are able to achieve higher overall math and reading scores unlike larger schools. This data frame supports the idea that having smaller size classes aids the teacher as she can have more time for individual learning, therefore higher test scores. Again having the ninth grade scores replaced for one high school, did not alter the results since this school was already mid sized and their overall scores for their 10th-12th graders were pretty high. Please see image below for evidence. 
+ 
+ ![scores_by_school_size]
   
  *Scores by school type
+ * The school type testing scores were much higher from those students that were enrolled in charter school rather than district schools, this is evident as charter schools are smaller in size which was a factor seen int the last data frame for successfule scores. Because Thomas high school is also a charter school, we have to see if the ninth grade deletion had any impact on this data set, and it did not. 
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+One of the changes that can be seen 
