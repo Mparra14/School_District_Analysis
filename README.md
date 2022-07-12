@@ -24,7 +24,7 @@
 
 * Looking at the math and reading scores by grade, you can see that replacing the ninth-grade scores with Nan's are still into effect in this section. Due to the ninth graders in Thomas High School not having these score there is no data to analyze from this grade at this school. This did not affect the other grades since their score did not depend on the ninth graders. Please see below for both math and reading scores. As it can be seen these scores did not affect any other score in that school. 
   
-![math_score_grade]()
+![math_score_grade](https://github.com/Mparra14/School_District_Analysis/blob/main/Math%20scores%20by%20grade%20.png)
 
 ![reading_score_grade]()
   
